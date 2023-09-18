@@ -12,6 +12,7 @@ export default function App() {
     "OpenSans-LightItalic": require("@assets/fonts/OpenSans-LightItalic.ttf"),
     "Montserrat-Medium": require("@assets/fonts/Montserrat-Medium.ttf"),
     "Montserrat-Normal": require("@assets/fonts/Montserrat-Regular.ttf"),
+    "Nico-moji-Regular": require("@assets/fonts/NicoMoji-Regular.ttf"),
   });
 
   LogBox.ignoreAllLogs();

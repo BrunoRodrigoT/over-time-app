@@ -7,7 +7,7 @@ export default function () {
   return StyleSheet.create({
     title: {
       fontSize: theme.typography.size.title,
-      fontFamily: theme.typography.fonts.secondary.normal,
+      fontFamily: theme.typography.fonts.title.normal,
       color: theme.colors.primary.dark,
     },
     subtitle: {

@@ -65,6 +65,9 @@ const theme = {
         medium: "Montserrat-Medium",
         normal: "Montserrat-Normal",
       },
+      title: {
+        normal: "Nico-moji-Regular",
+      },
     },
   },
   shape: {

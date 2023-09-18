@@ -16,7 +16,7 @@ const Container: FunctionComponent<IContainer> = ({ children, styles }) => {
     >
       <StatusBar style="auto" />
       <LinearGradient
-        colors={["#c9fd4f65", "#00817f76", "#001b358b", "#000000"]}
+        colors={["#fe7c30be", "#9903037b", "#0004088a", "#000000"]}
         style={{ flex: 1 }}
       >
         <View style={[{ flex: 1 }, styles]}>{children}</View>

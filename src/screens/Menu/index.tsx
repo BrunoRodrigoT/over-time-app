@@ -52,7 +52,7 @@ export default function Menu({ navigation }: Props) {
             ver
             <Text
               style={{
-                fontFamily: theme.typography.fonts.secondary.medium,
+                fontFamily: theme.typography.fonts.title.normal,
               }}
             >
               time
